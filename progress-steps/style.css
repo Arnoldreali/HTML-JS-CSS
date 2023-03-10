@@ -28,6 +28,15 @@ body{
     text-align: center;
 }
 
+.content h1 {
+    margin: 0;
+}
+  
+.content small {
+    color: #555;
+    font-style: italic;
+}
+
 .progress-container {
     display:flex;
     justify-content:  space-between;
